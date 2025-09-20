@@ -50,8 +50,9 @@ int main() {
 ```
 
 ##OUTPUT
+![catfile](./image2/03.png)
 
-![catfile](./image2/02-file2.png)
+
 
 ## 2.2 - OS-Linux-Process API -exec(), exit() , wait()
 ```
@@ -100,8 +101,7 @@ int main() {
 ```
 ## OUTPUT
 
-![catfile](./image2/03.png)
-
+![catfile](./image2/02-file2.png)
 
 # RESULT:
 The programs are executed successfully.

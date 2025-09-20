@@ -51,7 +51,7 @@ int main() {
 
 ##OUTPUT
 
-![catfile](./image2/Screenshot%20at%202025-09-20%2010-09-55.png)
+![catfile](./image2/02-file2.png)
 
 ## 2.2 - OS-Linux-Process API -exec(), exit() , wait()
 ```
@@ -86,7 +86,7 @@ int main() {
         perror("execlp failed");
         exit(1);
     }
-    wait(&status);
+    wait(&statusss);
     
     if (WIFEXITED(status)) {
         printf("Child exited for execlp with status: %d\n", WEXITSTATUS(status));
@@ -100,7 +100,7 @@ int main() {
 ```
 ## OUTPUT
 
-![catfile](./image2/02-file2.png)
+![catfile](./image2/03.png)
 
 
 # RESULT:

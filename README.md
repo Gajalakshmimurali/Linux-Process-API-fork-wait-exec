@@ -51,7 +51,7 @@ int main() {
 
 ##OUTPUT
 
-![alt text](<../Screenshot at 2025-09-20 09-55-07.png>)
+![catfile](./image2/Screenshot%20at%202025-09-20%2010-09-55.png)
 
 ## 2.2 - OS-Linux-Process API -exec(), exit() , wait()
 ```
@@ -100,49 +100,7 @@ int main() {
 ```
 ## OUTPUT
 
-![alt text](<../Screenshot at 2025-09-20 10-02-57.png>)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##OUTPUT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![catfile](./image2/02-file2.png)
 
 
 # RESULT:
